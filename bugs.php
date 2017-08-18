@@ -1,2 +1,3 @@
 <?php
-Hapa no bugs tu jameni
+echo "Hapa no bugs tu jameni";
+?>
